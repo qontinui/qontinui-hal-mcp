@@ -91,7 +91,7 @@ def build_app(tools: HalMcpTools) -> Starlette:
                 {
                     "success": False,
                     "error_code": "invalid_request",
-                    "error": "Body must be {\"name\": str, \"arguments\": object}.",
+                    "error": 'Body must be {"name": str, "arguments": object}.',
                 },
                 status_code=400,
             )
