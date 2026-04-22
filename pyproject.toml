@@ -29,7 +29,6 @@ uvicorn = "^0.37"
 qontinui = { path = "../qontinui", develop = true }
 
 [tool.poetry.group.dev.dependencies]
-black = "^26"
 ruff = "^0.15"
 mypy = "^1.14"
 pytest = "^9"
