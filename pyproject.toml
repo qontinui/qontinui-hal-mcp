@@ -3,13 +3,13 @@ name = "qontinui-hal-mcp"
 version = "0.1.0"
 description = "GhostDesk-compatible MCP server exposing qontinui's HAL (screen + input) to external agents"
 authors = ["Qontinui Team"]
-license = "MIT"
+license = "AGPL-3.0-or-later"
 readme = "README.md"
 keywords = ["mcp", "automation", "hal", "qontinui", "ghostdesk"]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
+    "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
     "Programming Language :: Python :: 3.12",
     "Topic :: Software Development :: Testing",
     "Topic :: Software Development :: Libraries :: Python Modules",

@@ -20,3 +20,7 @@ Every call requires the bearer token in the `Authorization: Bearer <token>`
 header (HTTP) or the `auth_token` argument (stdio). Input tools
 (`mouse_*`, `key_*`) are disabled unless `--allow-input` is passed.
 **Do not expose this surface to untrusted clients.**
+
+## License
+
+Licensed under the GNU Affero General Public License v3.0 or later (AGPL-3.0-or-later). See [LICENSE](LICENSE) for full terms. Contributing requires signing the [CLA](CLA.md) — see [CONTRIBUTING.md](CONTRIBUTING.md).
