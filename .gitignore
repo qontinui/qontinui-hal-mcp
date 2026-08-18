@@ -10,3 +10,6 @@ build/
 .ruff_cache/
 .mypy_cache/
 *.egg
+
+# Local qontinui CLI/tool config — machine-specific, never commit
+.qontinui/
